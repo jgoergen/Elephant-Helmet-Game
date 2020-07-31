@@ -1,4 +1,4 @@
-# Elephant Helmet Game
+# Elephant Ring Toss Game
 Ring toss game where both players wear helmets with randomly moving elephant trunks and try to get rings on them.
  
 # Parts (per helmet)
