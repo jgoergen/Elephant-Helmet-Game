@@ -1,7 +1,7 @@
 # Elephant Ring Toss Game
 Ring toss game where both players wear helmets with randomly moving elephant trunks and try to get rings on them.
 
-(Ears and trunk decoration done by Stephanie!)
+(Ears and trunk decoration done by Stephanie V!)
  
 ![Elephant Hat Demonstration](https://raw.githubusercontent.com/jgoergen/Elephant-Helmet-Game/master/elephantHat.gif)
 
