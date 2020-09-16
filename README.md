@@ -1,6 +1,9 @@
 # Elephant Ring Toss Game
 Ring toss game where both players wear helmets with randomly moving elephant trunks and try to get rings on them.
  
+![Elephant Hat Demonstration](https://raw.githubusercontent.com/jgoergen/Elephant-Helmet-Game/master/elephantHat.gif)
+
+ 
 # Parts (per helmet)
 * Arduino Nano microcontroller
 * 2 x micro servos
